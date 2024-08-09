@@ -22,7 +22,7 @@ This number must be larger than 4*number of possible chromosome-chromosome combi
 For the human reference (hg19 b37), 16384 is the recommended ulimit.
 
 ###Installing
-	git clone https://github.com/arq5x/Hydra
+	git clone https://github.com/honestcorrupt/hc4-Hydra.git
 	cd Hydra
 	make 
 	chmod +x scripts/*
